@@ -1,1 +1,5 @@
-# my_dev_show_sku
+# MY-Dev Show SKU in WooCommerce
+
+**Show SKU in product thumbnail**
+
+Enjoy it... :smiley:
